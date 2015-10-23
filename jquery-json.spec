@@ -9,7 +9,7 @@ Source0:	http://jquery-json.googlecode.com/files/jquery.json-%{version}.js
 # Source0-md5:	761234abe4fbf042f3f8396ec4502e48
 Source1:	http://jquery-json.googlecode.com/files/jquery.json-%{version}.min.js
 # Source1-md5:	baa3ab64491201645de9021108f36824
-URL:		http://code.google.com/p/jquery-json/
+URL:		https://github.com/krinkle/jquery-json
 BuildRequires:	rpmbuild(macros) >= 1.268
 Requires:	jquery
 BuildArch:	noarch
